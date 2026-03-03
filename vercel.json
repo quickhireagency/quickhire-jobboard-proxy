@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/exec", "destination": "/api/exec" }]
+}
